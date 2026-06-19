@@ -1,0 +1,6 @@
+NOTICE
+------
+RenderPong – DirectX Renderer
+Copyright (c) 2026 PhoronMC 
+Licensed under the Apache License 2.0
+Icons and Branding Are All Rights Reserved (ARR) 
